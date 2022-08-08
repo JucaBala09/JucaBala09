@@ -8,4 +8,4 @@
 JucaBala09/JucaBala09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-- <a href=””><img src=”[link da imagem](https://www.omelete.com.br/filmes/sean-connery-papeis-iconicos)”></img></a>
+- ><img src=https://fotos.web.sapo.io/i/G0013d195/18979846_7vOSl.jpeg></img></a>
